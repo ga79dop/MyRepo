@@ -11,8 +11,6 @@ public class myBean {
 	public void setMystr(String mystr) {
 		this.mystr = mystr;
 	}
-	
-	
-	
+//this is a comment bro
 
 }
